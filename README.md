@@ -1,2 +1,2 @@
-# Exodus-Trading
-For  exodus trading PLC
+# Exodus-Trading-website
+Exodus trading Website
